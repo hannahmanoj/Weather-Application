@@ -36,8 +36,8 @@ This is a simple command-line weather application built with Python that allows 
 ## API Key Setup
 To run this application, you need an API key from OpenWeatherMap:
 
-   1.Sign up at OpenWeatherMap to get your free API key.
-   2.Replace the placeholder API_KEY in weather.py with your actual API key.
+ - Sign up at OpenWeatherMap to get your free API key.
+ - Replace the placeholder API_KEY in weather.py with your actual API key.
 
 
 
