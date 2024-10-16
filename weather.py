@@ -2,7 +2,7 @@
 import requests  
 
 # Defines a constant API_KEY that stores the API key needed for accessing data from the OpenWeatherMap API.
-API_KEY = 'yourAPIKEY'    # You will need to sign up to OpenWeatherMAp for the API KEY.
+API_KEY = 'yourAPIKEY'    
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather?'  # base url for OpenWeatherMap
 
 
