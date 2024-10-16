@@ -13,6 +13,8 @@ This is a simple command-line weather application built with Python that allows 
 - `requests` library for making API calls
 - OpenWeatherMap API for weather data
 
+ 
+
 ## Installation
 
 1. **Clone the repository**:
@@ -30,5 +32,14 @@ This is a simple command-line weather application built with Python that allows 
    Humidity: 91%
    Wind Speed: 8.23 m/s
    Condition: Haze
+
+## API Key Setup
+To run this application, you need an API key from OpenWeatherMap:
+
+   1.Sign up at OpenWeatherMap to get your free API key.
+   2.Replace the placeholder API_KEY in weather.py with your actual API key.
+
+
+
 
    
